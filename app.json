@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "InstaSphere",
+    "slug": "instasphere-na",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E1306C"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E1306C"
+      },
+      "package": "com.rnoushad207.instaspher"
+    }
+  }
+}
