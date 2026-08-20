@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "InstaSphere",
-    "slug": "instasphere-na",
+    "name": "Instasphere",
+    "slug": "instasphere-nw",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,23 +9,21 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#E1306C"
+      "backgroundColor": "#1306C"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E1306C"
+        "backgroundColor": "#1306C"
       },
       "package": "com.rnoushad207.instaspher"
-    
-      },
+    },
     "extra": {
       "eas": {
-        "9e071f4b-0101-4218-9e71-6b05bcde73f7"
+        "projectId": "9a071f4b-8181-4218-9e71-6b05bcda73f7"
+      }
     }
   }
 }
-
-
