@@ -19,6 +19,14 @@
         "backgroundColor": "#E1306C"
       },
       "package": "com.rnoushad207.instaspher"
+    
+      },
+    "extra": {
+      "eas": {
+        "projectId": "1a6e86a9-83cd-468a-9293-6f8d39ef4d79"
+      }
     }
   }
 }
+
+
